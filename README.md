@@ -98,13 +98,13 @@ pip install -r requirements.txt
 - Detection of previously unseen attack patterns
 - Integration with network monitoring tools
 - Model optimization for faster inference
-11 ## System Architecture
+ ## System Architecture
 
 The following diagram illustrates the proposed
 hybrid DDoS detection architecture.
 
 ![System Architecture](assets/architecture.png)
-## 12. Author
+## 11. Author
 
 Unnati Pandit
 
